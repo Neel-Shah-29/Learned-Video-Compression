@@ -1,0 +1,13 @@
+numpy>=1.24.4,<2
+torch>=1.7
+opencv_python>=4.8.0,<4.12.0
+loguru
+tqdm
+thop
+ninja
+tabulate
+psutil
+
+# verified versions
+# pycocotools corresponds to https://github.com/ppwwyyxx/cocoapi
+pycocotools>=2.0.2
